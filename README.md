@@ -18,7 +18,7 @@
  
  2）使用类似React框架 由组件“堆积“起来的页面，没有专门统筹的机制管理组件通信，所以需要在组件内部，处理除UI以外的业务逻辑，造成组件无法复用。
  
-![1](https://cdn.infoq.com/statics_s2_20160517-0032u2/resource/news/2014/05/facebook-mvc-flux/en/resources/flux-react-mvc.png)
+![1](https://img.alicdn.com/tps/TB1yGzlJVXXXXcDXVXXXXXXXXXX-390-221.png)
 
 ![2](http://andrewhfarmer.com/img/2015/11/any-to-any.png)
  
